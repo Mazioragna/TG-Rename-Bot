@@ -15,7 +15,11 @@ An Open Source Rename Telegram RoBot
 
 ### You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/Mazioragna/TG-Rename-Bot.git
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/Mazioragna/TG-Rename-Bot.git)
+
+#deploy to railway 
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FMazioragna%2FTG-Rename-Bot&envs=API_HASH%2CAPP_ID%2CAUTH_USERS%2CCHAT_BASE_TOKEN%2CCHUNK_SIZE%2CTG_BOT_TOKEN&API_HASHDefault=e9d1533120688a5684ab529ec34bb432&APP_IDDefault=6492691&AUTH_USERSDefault=1488261356&CHUNK_SIZEDefault=128&referralCode=COqdBp)
 
 **upgrade** your subscription for [@AnyDLBot](https://telegram.dog/AnyDLBot) without having to run anything on your own
 

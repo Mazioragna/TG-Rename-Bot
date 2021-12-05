@@ -19,7 +19,6 @@ An Open Source Rename Telegram RoBot
 
 #deploy to railway 
 
-[![Deploy on Railway !](https://railway.app/button.svg)](https://railway.app/new/template?template=5042418688%3AAAEqOYgAGLXCIeHCKsqTTZ4hDSzUVGP_qi8&envs=API_HASH%2CAPP_ID%2CAUTH_USERS%2CCHAT_BASE_TOKEN%2CCHUNK_SIZE%2CTG_BOT_TOKEN%2CWEBHOOK&API_HASHDefault=e9d1533120688a5684ab529ec34bb432&APP_IDDefault=6492691&AUTH_USERSDefault=1488261356&CHUNK_SIZEDefault=128&WEBHOOKDefault=ANYTHING&referralCode=COqdBp)
 
 **upgrade** your subscription for [@AnyDLBot](https://telegram.dog/AnyDLBot) without having to run anything on your own
 
